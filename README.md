@@ -9,12 +9,11 @@ In order to run the exercises you need to install Elixir on your machine. Follow
 ## Running
 
 Using a terminal, start the Elixir Interactive Shell `iex` on the folder containing the exercise you want to run.
-Compile the exercise file using the `c` command. e.g. `c("exercise.ex")`.
+Compile the exercise file using the `c` command. e.g. `c("importing.ex")`.
 
 Run the exercises by interacting with the module functions.
 
-* `Exercises.fib(2)`
-* `f = curry(fn a, b -> a + b end)`
+* `Importing.fall_velocity_in_mph(2)`
 
 ## Additional resources
 
