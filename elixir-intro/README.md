@@ -13,7 +13,7 @@ Elixir works with two types of numbers, integers, and floating point numbers. Th
 
 Float numbers require the use of the decimal dot, and can also be written using the `e` notation:
 
-> iex(1)> 5
+> iex(1)> 5  
 > 5
 > iex(2)> 5.0
 > 5.0
